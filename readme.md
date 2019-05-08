@@ -16,4 +16,4 @@ Game Levels
 
 # Downloads
 
-[Apk](apk/Escape_alpha_v6.apk)
+[Apk](https://gitlab.com/vcec/escape/raw/master/apk/Escape_alpha_v6.apk)
