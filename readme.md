@@ -2,13 +2,16 @@
 
 A simple Racing and Dodge game on mobile platform based on Unity.
 
+_Lineng Cao_
+
 ## Features
 
 - Unity 5 powered on escaping mobile game.
 - Navigation button with fully tweaked menu and option panels.
 - Entire level design by Catndog Team
+
+## Demo
 [Demo Video](https://www.youtube.com/watch?v=WGPzNuo5j88)
-_Lineng Cao_
 
 ## Screenshots
 
