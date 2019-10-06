@@ -27,7 +27,7 @@ __Game Levels__
 
 ## Downloads
 
-[Apk](https://gitlab.com/vcec/escape/raw/master/apk/Escape_alpha_v6.apk)
+[Apk](https://github.com/vincecao/Unity-Game-Escape/raw/master/apk/Escape_alpha_v6.apk)
 
 ## Reference
 Object models from [Unity Assets store](https://assetstore.unity.com/)
